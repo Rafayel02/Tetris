@@ -1087,6 +1087,6 @@ function getModelType() {
 }
 
 //starting program
-let interval = setInterval(startGame, 200)
+let interval = setInterval(startGame, 400)
 
 //rgba(160, 160, 160, 0.2)
