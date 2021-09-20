@@ -779,6 +779,7 @@ const modelSquare = {
     maxDistanceFromLeft: 4,
     maxDistanceFromRight: 3,
     height: 2,
+    nextRotateModelType: 7,
     coordinates: [
         {
             rowPoint: 0,
